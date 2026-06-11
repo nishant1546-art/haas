@@ -1,7 +1,7 @@
 // Reasons database
  const reasons = [
     { 
-        text: "HAPPY BIRTHDAY HAAS BRO!! ", 
+        text: "HAPPY BIRTHDAY LAASYAA!! ", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
